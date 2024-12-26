@@ -1,0 +1,11 @@
+{
+    "XF-Entity-User_TroopTrackerViewAttachment-XF-Entity-User.json": {
+        "hash": "3af3b611957aaba39284541b41be61f2"
+    },
+    "XF-PermissionSet_TroopTrackerViewAttachment-XF-CustomPermissionSet.json": {
+        "hash": "4bffb6639364eca9804acb4d7c75fcfe"
+    },
+    "XF-Pub-Controller-Attachment_TroopTrackerViewAttachment-XF-Pub-Controller-Attachment.json": {
+        "hash": "bc1d51abe5097114cd3e787c0664888a"
+    }
+}

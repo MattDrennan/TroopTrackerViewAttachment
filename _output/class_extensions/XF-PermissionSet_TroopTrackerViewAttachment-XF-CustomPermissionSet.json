@@ -1,0 +1,6 @@
+{
+    "from_class": "XF\\PermissionSet",
+    "to_class": "TroopTrackerViewAttachment\\XF\\CustomPermissionSet",
+    "execute_order": 10,
+    "active": true
+}
